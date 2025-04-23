@@ -40,7 +40,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
    ```bash
    git clone https://github.com/Ademircordeiro/memorando.git
-   cd ademir-angular
+   cd memorando
    ```
 
 2. **Instale as dependências**:
